@@ -237,5 +237,3 @@ The `\Magento\Framework\Jwt\KeyGeneratorInterface` provides a possibility to cre
 ## Summary
 
 The proposed functionality can be added in a patch release. The introduced interfaces can be marked as @api in the next minor release.
-
-The [POC](https://github.com/joni-jones/magento2/tree/jwt-auth) provides a possibility to use JWT wrappers instead of own implementation for Cardinal Commerce integration.
